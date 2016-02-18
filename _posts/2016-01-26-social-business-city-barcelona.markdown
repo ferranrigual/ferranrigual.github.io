@@ -8,7 +8,7 @@ tags: yunus colon socialbusiness
 
 Last week I attended the [SBC Barcelona ceremony][sbcCeremony], a yearly event from the [Social Business City Barcelona][sbc] where guests from different organizations talk about their work with social businesses.
 
-*Professor Muhammad Yunus* was invited to the conference. He is one of my greatest inspirors and the reason I attended the event, I enjoyed his contributions to the debate and speeches, but there is another guest who was, for me, even more pleasant to hear: *Cristóbal Colón*.
+*Professor Muhammad Yunus* was invited to the conference. He is the reason I attended the event and one of my greatest inspirors, I enjoyed his contributions to the debate and speeches, but there is another guest who was, for me, even more pleasant to hear: *Cristóbal Colón*.
 
 ![The debate](/assets/2016-02/sbc-debate.jpg)
 
