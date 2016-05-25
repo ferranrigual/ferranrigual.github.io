@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Installing Caffe in Arch Linux"
-date:   2016-05-24 14:00:00
+date:   2016-05-25 14:00:00
 category: professional
 tags: caffe arch
 ---
