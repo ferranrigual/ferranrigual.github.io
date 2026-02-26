@@ -12,5 +12,3 @@ goodreads_username: 18853043-ferran-rigual
 
 # Build settings
 markdown: kramdown
-sass:
-  sass_dir: blog/_sass
