@@ -4,8 +4,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Ferran Rigual's Personal blog. As this is not a professional blog,
   I'll be writing about anything that interests me, like volunteering,
   society, travelling, sports, and of course Artificial Intelligence.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ferranrigual.github.io/blog" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://ferranrigual.github.io/" # the base hostname & protocol for your site
 twitter_username: ferranrigual
 github_username:  ferranrigual
 goodreads_username: 18853043-ferran-rigual
