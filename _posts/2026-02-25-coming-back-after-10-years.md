@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coming Back After 10 Years
-date: 2026-02-26 22:00:00
+date: 2026-02-25 22:00:00
 category: professional
 tags: agentic-ai
 ---
